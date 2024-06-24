@@ -16,7 +16,7 @@ Tvflix is a simple and responsive web app built using Vanilla JS, leveraging the
 
 ## Live Demo 🌐
 
-Check out the live demo [here](https://shivam171.github.io/tvflix/)!
+Check out the live demo [here](https://shivam171-tvflix.netlify.app/)!
 
 ## Current Status 🚧
 

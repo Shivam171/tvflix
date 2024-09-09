@@ -1,7 +1,5 @@
 # Tvflix 🎞
 
-![Tvflix](https://github.com/Shivam171/Tvflix/assets/66107248/cc368a2b-23d8-4568-b4fe-7c36fe8a62c3)
-
 ## About this Repo 🚀
 
 Tvflix is a simple and responsive web app built using Vanilla JS, leveraging the power of Postman and the TMDB API to seamlessly fetch and display comprehensive movie details. This project serves as a template for larger applications.
